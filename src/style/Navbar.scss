@@ -1,0 +1,15 @@
+.containergeneral
+{
+    display: flex;
+
+    .containernabar
+    {
+        background: #000000;
+       .drawer
+       {
+           justify-content: flex-start;
+           color: green;
+           
+       }
+    }
+}
