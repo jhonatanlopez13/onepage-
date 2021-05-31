@@ -7,8 +7,8 @@ import List from '@material-ui/core/List';
 import Divider from '@material-ui/core/Divider';
 import ListItem from '@material-ui/core/ListItem';
 import ListItemText from '@material-ui/core/ListItemText';
-import '../../style/Drawer.scss'
-import '../../icons/icomoon/style.css'
+import '../../icons/icomoon/style.css';
+import '../../style/Drawer.scss';
 
 
 const useStyles = makeStyles({
@@ -24,9 +24,6 @@ export default function TemporaryDrawer() {
   const classes = useStyles();
   const [state, setState] = React.useState({
     top: false,
-    left: false,
-    bottom: false,
-    right: false,
   });
 
   const toggleDrawer = (anchor, open) => (event) => {
@@ -67,10 +64,14 @@ export default function TemporaryDrawer() {
   );
 
   return (
-    <div id={"containerDrawer"} className={"icon-menu-1"} >
+    <div className={"containerDrawer"} >
       {['left'].map((anchor) => (
-        <React.Fragment key={anchor}>
-          <Button onClick={toggleDrawer(anchor, true)}>{anchor}</Button>
+        <React.Fragment className={"containerbutton"} key={anchor}>
+          <Button  
+            onClick={toggleDrawer(anchor, true)} 
+            id={"buttonmenu"} 
+            className={"icon-menu-1"}>
+          </Button>
           <Drawer anchor={anchor} open={state[anchor]} onClose={toggleDrawer(anchor, false)}>
             {list(anchor)}
           </Drawer>

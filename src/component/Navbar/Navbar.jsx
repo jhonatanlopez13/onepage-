@@ -24,7 +24,8 @@ const Navbar = () => {
     <div className={"containergeneral"}>
       <AppBar position="static">
         <Toolbar className={"containernabar"}>
-            <Drawer id={"drawer"}/>
+          <Drawer/>
+          <i id={"logoempresa"} className={"icon-logoempresa"}></i>
         </Toolbar>
       </AppBar>
     </div>

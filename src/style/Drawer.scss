@@ -1,11 +1,11 @@
-.containerDrawer
+.MuiAppBar-colorPrimary 
 {
-    background: green;
-    #MuiButton-label {
-        width: 100%;
-        display: inherit;
-        align-items: inherit;
-        justify-content: inherit;
-        color: red;
+    color: red;
+    background-color: green;
+    .MuiButton-text
+    {
+        padding: 6px 8px;
+        background: transparent;
+        color :#ffffff;
     }
 }
