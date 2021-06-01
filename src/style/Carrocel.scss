@@ -1,0 +1,21 @@
+.containergeneral
+{
+    display: flex;
+    .row
+    {
+        display: contents;
+        .containercolor
+        {
+            background: red;
+            width: 20%;
+            height: 560px;
+        }
+        .containercarrocel
+        {
+            background: green;
+            width: 80%;
+            height: 100%;
+            height: 560px;
+        }
+    }
+}
