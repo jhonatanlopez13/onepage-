@@ -1,0 +1,39 @@
+.container
+{
+    display: block;
+    height: 150px;
+    background-color: #1c1c1c;
+
+    .panel-left
+    {
+        display: inline-block;
+        width: 30%;
+        height: 100%;
+        background: transparent;
+        float: left;
+        .paneltop
+        {
+            height: 50%;
+            display: block;
+            background: #1c1c1c;
+            width: 300px;
+            .title
+            {
+                color: orange;
+            }
+        }
+        .panelbotton
+        {
+            display: block;
+            height: 50%;
+            background: #1c1c1c;
+            width: 300px;
+            display: block;
+            .title
+            {
+                color: red;
+            }
+     
+        }
+    }
+}

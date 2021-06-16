@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?5g3d9g');
-  src:  url('fonts/icomoon.eot?5g3d9g#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?5g3d9g') format('truetype'),
-    url('fonts/icomoon.woff?5g3d9g') format('woff'),
-    url('fonts/icomoon.svg?5g3d9g#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?ph77vo');
+  src:  url('fonts/icomoon.eot?ph77vo#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?ph77vo') format('truetype'),
+    url('fonts/icomoon.woff?ph77vo') format('woff'),
+    url('fonts/icomoon.svg?ph77vo#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,9 +25,603 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-logoempresa:before {
+.icon-freno:before {
+  content: "\e972";
+}
+.icon-motor-del-coche:before {
+  content: "\e973";
+}
+.icon-llanta-de-carro .path1:before {
+  content: "\e974";
+  color: rgb(172, 171, 177);
+}
+.icon-llanta-de-carro .path2:before {
+  content: "\e975";
+  margin-left: -1em;
+  color: rgb(255, 218, 68);
+}
+.icon-llanta-de-carro .path3:before {
+  content: "\e976";
+  margin-left: -1em;
+  color: rgb(45, 45, 48);
+}
+.icon-llanta-de-carro .path4:before {
+  content: "\e977";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-llanta-de-carro .path5:before {
+  content: "\e978";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-llanta-de-carro .path6:before {
+  content: "\e979";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-logoempresa .path1:before {
   content: "\e901";
-  color: #999;
+  color: rgb(237, 28, 36);
+}
+.icon-logoempresa .path2:before {
+  content: "\e902";
+  margin-left: -0.7724609375em;
+  color: rgb(237, 28, 36);
+}
+.icon-logoempresa .path3:before {
+  content: "\e903";
+  margin-left: -0.7724609375em;
+  color: rgb(237, 28, 36);
+}
+.icon-logoempresa .path4:before {
+  content: "\e904";
+  margin-left: -0.7724609375em;
+  color: rgb(237, 28, 36);
+}
+.icon-logoempresa .path5:before {
+  content: "\e905";
+  margin-left: -0.7724609375em;
+  color: rgb(237, 28, 36);
+}
+.icon-logoempresa .path6:before {
+  content: "\e906";
+  margin-left: -0.7724609375em;
+  color: rgb(237, 28, 36);
+}
+.icon-logoempresa .path7:before {
+  content: "\e907";
+  margin-left: -0.7724609375em;
+  color: rgb(237, 28, 36);
+}
+.icon-logoempresa .path8:before {
+  content: "\e908";
+  margin-left: -0.7724609375em;
+  color: rgb(237, 28, 36);
+}
+.icon-logoempresa .path9:before {
+  content: "\e909";
+  margin-left: -0.7724609375em;
+  color: rgb(237, 28, 36);
+}
+.icon-logoempresa .path10:before {
+  content: "\e90a";
+  margin-left: -0.7724609375em;
+  color: rgb(237, 28, 36);
+}
+.icon-logoempresa .path11:before {
+  content: "\e90b";
+  margin-left: -0.7724609375em;
+  color: rgb(35, 31, 32);
+}
+.icon-logoempresa .path12:before {
+  content: "\e90c";
+  margin-left: -0.7724609375em;
+  color: rgb(35, 31, 32);
+}
+.icon-logoempresa .path13:before {
+  content: "\e90d";
+  margin-left: -0.7724609375em;
+  color: rgb(6, 6, 6);
+}
+.icon-logoempresa .path14:before {
+  content: "\e90e";
+  margin-left: -0.7724609375em;
+  color: rgb(11, 11, 11);
+}
+.icon-logoempresa .path15:before {
+  content: "\e90f";
+  margin-left: -0.7724609375em;
+  color: rgb(1, 1, 1);
+}
+.icon-logoempresa .path16:before {
+  content: "\e910";
+  margin-left: -0.7724609375em;
+  color: rgb(253, 253, 253);
+}
+.icon-logoempresa .path17:before {
+  content: "\e911";
+  margin-left: -0.7724609375em;
+  color: rgb(3, 3, 3);
+}
+.icon-logoempresa .path18:before {
+  content: "\e912";
+  margin-left: -0.7724609375em;
+  color: rgb(8, 8, 8);
+}
+.icon-logoempresa .path19:before {
+  content: "\e913";
+  margin-left: -0.7724609375em;
+  color: rgb(21, 21, 22);
+}
+.icon-logoempresa .path20:before {
+  content: "\e914";
+  margin-left: -0.7724609375em;
+  color: rgb(8, 8, 8);
+}
+.icon-logoempresa .path21:before {
+  content: "\e915";
+  margin-left: -0.7724609375em;
+  color: rgb(13, 13, 14);
+}
+.icon-logoempresa .path22:before {
+  content: "\e916";
+  margin-left: -0.7724609375em;
+  color: rgb(250, 250, 250);
+}
+.icon-logoempresa .path23:before {
+  content: "\e917";
+  margin-left: -0.7724609375em;
+  color: rgb(250, 250, 250);
+}
+.icon-logoempresa .path24:before {
+  content: "\e918";
+  margin-left: -0.7724609375em;
+  color: rgb(252, 252, 252);
+}
+.icon-logoempresa .path25:before {
+  content: "\e919";
+  margin-left: -0.7724609375em;
+  color: rgb(251, 251, 251);
+}
+.icon-logoempresa .path26:before {
+  content: "\e91a";
+  margin-left: -0.7724609375em;
+  color: rgb(251, 251, 251);
+}
+.icon-logoempresa .path27:before {
+  content: "\e91b";
+  margin-left: -0.7724609375em;
+  color: rgb(35, 31, 32);
+}
+.icon-logoempresa .path28:before {
+  content: "\e91c";
+  margin-left: -0.7724609375em;
+  color: rgb(252, 252, 252);
+}
+.icon-logoempresa .path29:before {
+  content: "\e91d";
+  margin-left: -0.7724609375em;
+  color: rgb(252, 252, 252);
+}
+.icon-logoempresa .path30:before {
+  content: "\e91e";
+  margin-left: -0.7724609375em;
+  color: rgb(249, 249, 249);
+}
+.icon-logoempresa .path31:before {
+  content: "\e91f";
+  margin-left: -0.7724609375em;
+  color: rgb(250, 250, 250);
+}
+.icon-logoempresa .path32:before {
+  content: "\e920";
+  margin-left: -0.7724609375em;
+  color: rgb(250, 250, 250);
+}
+.icon-logoempresa .path33:before {
+  content: "\e921";
+  margin-left: -0.7724609375em;
+  color: rgb(1, 1, 1);
+}
+.icon-logoempresa .path34:before {
+  content: "\e922";
+  margin-left: -0.7724609375em;
+  color: rgb(245, 245, 245);
+}
+.icon-logoempresa .path35:before {
+  content: "\e923";
+  margin-left: -0.7724609375em;
+  color: rgb(251, 251, 251);
+}
+.icon-logoempresa .path36:before {
+  content: "\e924";
+  margin-left: -0.7724609375em;
+  color: rgb(251, 251, 251);
+}
+.icon-logoempresa .path37:before {
+  content: "\e925";
+  margin-left: -0.7724609375em;
+  color: rgb(251, 251, 251);
+}
+.icon-logoempresa .path38:before {
+  content: "\e926";
+  margin-left: -0.7724609375em;
+  color: rgb(250, 250, 250);
+}
+.icon-logoempresa .path39:before {
+  content: "\e927";
+  margin-left: -0.7724609375em;
+  color: rgb(13, 13, 14);
+}
+.icon-logoempresa .path40:before {
+  content: "\e928";
+  margin-left: -0.7724609375em;
+  color: rgb(243, 243, 243);
+}
+.icon-logoempresa .path41:before {
+  content: "\e929";
+  margin-left: -0.7724609375em;
+  color: rgb(252, 252, 252);
+}
+.icon-logoempresa .path42:before {
+  content: "\e92a";
+  margin-left: -0.7724609375em;
+  color: rgb(252, 252, 252);
+}
+.icon-logoempresa .path43:before {
+  content: "\e92b";
+  margin-left: -0.7724609375em;
+  color: rgb(252, 252, 252);
+}
+.icon-logoempresa .path44:before {
+  content: "\e92c";
+  margin-left: -0.7724609375em;
+  color: rgb(252, 252, 252);
+}
+.icon-logoempresa .path45:before {
+  content: "\e92d";
+  margin-left: -0.7724609375em;
+  color: rgb(234, 234, 234);
+}
+.icon-logoempresa .path46:before {
+  content: "\e92e";
+  margin-left: -0.7724609375em;
+  color: rgb(234, 234, 234);
+}
+.icon-logoempresa .path47:before {
+  content: "\e92f";
+  margin-left: -0.7724609375em;
+  color: rgb(249, 249, 249);
+}
+.icon-logoempresa .path48:before {
+  content: "\e930";
+  margin-left: -0.7724609375em;
+  color: rgb(5, 5, 5);
+}
+.icon-logoempresa .path49:before {
+  content: "\e931";
+  margin-left: -0.7724609375em;
+  color: rgb(3, 3, 3);
+}
+.icon-logoempresa .path50:before {
+  content: "\e932";
+  margin-left: -0.7724609375em;
+  color: rgb(249, 249, 249);
+}
+.icon-logoempresa .path51:before {
+  content: "\e933";
+  margin-left: -0.7724609375em;
+  color: rgb(252, 252, 252);
+}
+.icon-logoempresa .path52:before {
+  content: "\e934";
+  margin-left: -0.7724609375em;
+  color: rgb(221, 221, 221);
+}
+.icon-logoempresa .path53:before {
+  content: "\e935";
+  margin-left: -0.7724609375em;
+  color: rgb(252, 252, 252);
+}
+.icon-logoempresa .path54:before {
+  content: "\e936";
+  margin-left: -0.7724609375em;
+  color: rgb(238, 238, 238);
+}
+.icon-logoempresa .path55:before {
+  content: "\e937";
+  margin-left: -0.7724609375em;
+  color: rgb(216, 216, 216);
+}
+.icon-logoempresa .path56:before {
+  content: "\e938";
+  margin-left: -0.7724609375em;
+  color: rgb(29, 29, 29);
+}
+.icon-logoempresa .path57:before {
+  content: "\e939";
+  margin-left: -0.7724609375em;
+  color: rgb(238, 238, 238);
+}
+.icon-logoempresa .path58:before {
+  content: "\e93a";
+  margin-left: -0.7724609375em;
+  color: rgb(252, 252, 252);
+}
+.icon-logoempresa .path59:before {
+  content: "\e93b";
+  margin-left: -0.7724609375em;
+  color: rgb(249, 249, 249);
+}
+.icon-logoempresa .path60:before {
+  content: "\e93c";
+  margin-left: -0.7724609375em;
+  color: rgb(249, 249, 249);
+}
+.icon-logoempresa .path61:before {
+  content: "\e93d";
+  margin-left: -0.7724609375em;
+  color: rgb(249, 249, 249);
+}
+.icon-logoempresa .path62:before {
+  content: "\e93e";
+  margin-left: -0.7724609375em;
+  color: rgb(249, 249, 249);
+}
+.icon-logoempresa .path63:before {
+  content: "\e93f";
+  margin-left: -0.7724609375em;
+  color: rgb(32, 32, 34);
+}
+.icon-logoempresa .path64:before {
+  content: "\e940";
+  margin-left: -0.7724609375em;
+  color: rgb(6, 6, 6);
+}
+.icon-logoempresa .path65:before {
+  content: "\e941";
+  margin-left: -0.7724609375em;
+  color: rgb(5, 5, 5);
+}
+.icon-logoempresa .path66:before {
+  content: "\e942";
+  margin-left: -0.7724609375em;
+  color: rgb(237, 237, 238);
+}
+.icon-logoempresa .path67:before {
+  content: "\e943";
+  margin-left: -0.7724609375em;
+  color: rgb(247, 247, 247);
+}
+.icon-logoempresa .path68:before {
+  content: "\e944";
+  margin-left: -0.7724609375em;
+  color: rgb(13, 13, 14);
+}
+.icon-logoempresa .path69:before {
+  content: "\e945";
+  margin-left: -0.7724609375em;
+  color: rgb(245, 245, 245);
+}
+.icon-logoempresa .path70:before {
+  content: "\e946";
+  margin-left: -0.7724609375em;
+  color: rgb(249, 249, 249);
+}
+.icon-logoempresa .path71:before {
+  content: "\e947";
+  margin-left: -0.7724609375em;
+  color: rgb(252, 252, 252);
+}
+.icon-logoempresa .path72:before {
+  content: "\e948";
+  margin-left: -0.7724609375em;
+  color: rgb(250, 250, 250);
+}
+.icon-logoempresa .path73:before {
+  content: "\e949";
+  margin-left: -0.7724609375em;
+  color: rgb(250, 250, 250);
+}
+.icon-logoempresa .path74:before {
+  content: "\e94a";
+  margin-left: -0.7724609375em;
+  color: rgb(252, 252, 252);
+}
+.icon-logoempresa .path75:before {
+  content: "\e94b";
+  margin-left: -0.7724609375em;
+  color: rgb(247, 247, 247);
+}
+.icon-logoempresa .path76:before {
+  content: "\e94c";
+  margin-left: -0.7724609375em;
+  color: rgb(244, 244, 244);
+}
+.icon-logoempresa .path77:before {
+  content: "\e94d";
+  margin-left: -0.7724609375em;
+  color: rgb(228, 228, 230);
+}
+.icon-logoempresa .path78:before {
+  content: "\e94e";
+  margin-left: -0.7724609375em;
+  color: rgb(228, 228, 230);
+}
+.icon-logoempresa .path79:before {
+  content: "\e94f";
+  margin-left: -0.7724609375em;
+  color: rgb(221, 221, 221);
+}
+.icon-logoempresa .path80:before {
+  content: "\e950";
+  margin-left: -0.7724609375em;
+  color: rgb(243, 243, 243);
+}
+.icon-logoempresa .path81:before {
+  content: "\e951";
+  margin-left: -0.7724609375em;
+  color: rgb(245, 245, 245);
+}
+.icon-logoempresa .path82:before {
+  content: "\e952";
+  margin-left: -0.7724609375em;
+  color: rgb(218, 218, 218);
+}
+.icon-logoempresa .path83:before {
+  content: "\e953";
+  margin-left: -0.7724609375em;
+  color: rgb(249, 249, 249);
+}
+.icon-logoempresa .path84:before {
+  content: "\e954";
+  margin-left: -0.7724609375em;
+  color: rgb(245, 245, 245);
+}
+.icon-logoempresa .path85:before {
+  content: "\e955";
+  margin-left: -0.7724609375em;
+  color: rgb(18, 18, 18);
+}
+.icon-logoempresa .path86:before {
+  content: "\e956";
+  margin-left: -0.7724609375em;
+  color: rgb(249, 249, 249);
+}
+.icon-logoempresa .path87:before {
+  content: "\e957";
+  margin-left: -0.7724609375em;
+  color: rgb(247, 247, 247);
+}
+.icon-logoempresa .path88:before {
+  content: "\e958";
+  margin-left: -0.7724609375em;
+  color: rgb(249, 249, 249);
+}
+.icon-logoempresa .path89:before {
+  content: "\e959";
+  margin-left: -0.7724609375em;
+  color: rgb(238, 238, 238);
+}
+.icon-logoempresa .path90:before {
+  content: "\e95a";
+  margin-left: -0.7724609375em;
+  color: rgb(237, 237, 238);
+}
+.icon-logoempresa .path91:before {
+  content: "\e95b";
+  margin-left: -0.7724609375em;
+  color: rgb(245, 245, 245);
+}
+.icon-logoempresa .path92:before {
+  content: "\e95c";
+  margin-left: -0.7724609375em;
+  color: rgb(233, 233, 233);
+}
+.icon-logoempresa .path93:before {
+  content: "\e95d";
+  margin-left: -0.7724609375em;
+  color: rgb(245, 245, 245);
+}
+.icon-logoempresa .path94:before {
+  content: "\e95e";
+  margin-left: -0.7724609375em;
+  color: rgb(137, 137, 138);
+}
+.icon-logoempresa .path95:before {
+  content: "\e95f";
+  margin-left: -0.7724609375em;
+  color: rgb(243, 243, 243);
+}
+.icon-logoempresa .path96:before {
+  content: "\e960";
+  margin-left: -0.7724609375em;
+  color: rgb(224, 224, 224);
+}
+.icon-logoempresa .path97:before {
+  content: "\e961";
+  margin-left: -0.7724609375em;
+  color: rgb(241, 241, 241);
+}
+.icon-logoempresa .path98:before {
+  content: "\e962";
+  margin-left: -0.7724609375em;
+  color: rgb(245, 245, 245);
+}
+.icon-logoempresa .path99:before {
+  content: "\e963";
+  margin-left: -0.7724609375em;
+  color: rgb(228, 228, 230);
+}
+.icon-logoempresa .path100:before {
+  content: "\e964";
+  margin-left: -0.7724609375em;
+  color: rgb(245, 245, 245);
+}
+.icon-logoempresa .path101:before {
+  content: "\e965";
+  margin-left: -0.7724609375em;
+  color: rgb(245, 245, 245);
+}
+.icon-logoempresa .path102:before {
+  content: "\e966";
+  margin-left: -0.7724609375em;
+  color: rgb(184, 184, 185);
+}
+.icon-logoempresa .path103:before {
+  content: "\e967";
+  margin-left: -0.7724609375em;
+  color: rgb(228, 228, 228);
+}
+.icon-logoempresa .path104:before {
+  content: "\e968";
+  margin-left: -0.7724609375em;
+  color: rgb(249, 249, 249);
+}
+.icon-logoempresa .path105:before {
+  content: "\e969";
+  margin-left: -0.7724609375em;
+  color: rgb(234, 234, 234);
+}
+.icon-logoempresa .path106:before {
+  content: "\e96a";
+  margin-left: -0.7724609375em;
+  color: rgb(197, 197, 197);
+}
+.icon-logoempresa .path107:before {
+  content: "\e96b";
+  margin-left: -0.7724609375em;
+  color: rgb(228, 228, 230);
+}
+.icon-logoempresa .path108:before {
+  content: "\e96c";
+  margin-left: -0.7724609375em;
+  color: rgb(242, 242, 242);
+}
+.icon-logoempresa .path109:before {
+  content: "\e96d";
+  margin-left: -0.7724609375em;
+  color: rgb(191, 191, 191);
+}
+.icon-logoempresa .path110:before {
+  content: "\e96e";
+  margin-left: -0.7724609375em;
+  color: rgb(227, 227, 227);
+}
+.icon-logoempresa .path111:before {
+  content: "\e96f";
+  margin-left: -0.7724609375em;
+  color: rgb(234, 234, 234);
+}
+.icon-logoempresa .path112:before {
+  content: "\e970";
+  margin-left: -0.7724609375em;
+  color: rgb(214, 214, 217);
+}
+.icon-logoempresa1:before {
+  content: "\e971";
+  color: #f00;
 }
 .icon-menu-1:before {
   content: "\e900";
